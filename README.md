@@ -26,11 +26,11 @@ This is a **FAQ (Frequently Asked Questions) Management System** built with **Dj
    git clone https://github.com/Gauravsingh096/faq-app.git
    cd faq-app/backend
 
-python -m venv venv
-source venv/bin/activate  # For Linux/Mac
-venv\Scripts\activate     # For Windows
+##python -m venv venv
+##source venv/bin/activate  # For Linux/Mac
+##venv\Scripts\activate     # For Windows
 
-pip install -r requirements.txt
-python manage.py makemigrations
-python manage.py migrate
-python manage.py
+##pip install -r requirements.txt
+##python manage.py makemigrations
+##python manage.py migrate
+##python manage.py
